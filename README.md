@@ -1,6 +1,6 @@
 Hello! I'm glad you're here! ☺
 
-This collection of repositories is directly related to projects done through Michigan clubs or classes. 
+This collection of repositories is directly related to projects done through Michigan clubs or classes. If you would like to view my personal profile, including personal projects outside of school, check out @(ashleysawicke)[https://github.com/ashleysawicke]
 
 Currently, I am involved in team projects with **Michigan Data Science Team** and **QuantUM**, a quantum computing club.
 
