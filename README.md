@@ -6,7 +6,7 @@ Currently, I am involved in team projects with **Michigan Data Science Team** an
 
 For Michigan Data Science Team, my team and I are working on a Fruit Nutrition Information App that employs computer vision and machine learning to train a model that classifier fruit images given by the user. 
 
-For QuantUM, I am leading a team of 6 others in creating ***QUNO***, or Quantum UNO, using Unity and C. We are inspired by the vast innovation, research, and exciting advancements in the field right now and want to implement core quantum mechanic principles into a fun and accessible game for all the enjoy. 
+For QuantUM, I am leading a team of 6 others in creating ***QUNO***, or Quantum UNO, using Unity and C#. We are inspired by the vast innovation, research, and exciting advancements in the field right now and want to implement core quantum mechanic principles into a fun and accessible game for all the enjoy. I'm thinking about pursuing game development as a career so this project is an especially explorative and informative experience for me!
 
 Reach out to me at asawicke@umich.edu if you are interested in hearing more about these projects, or collaborating on new projects! I'm always open to learning anything under the sun! And I'm excited for all of the opportunity in the world to create something new and special!
 <!---
